@@ -1,17 +1,27 @@
-2021/12/07-16:39:31.457 d73c Reusing MANIFEST /home/khanhhd/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/12/07-16:39:31.459 d73c Recovering log #83
-2021/12/07-16:39:31.461 d73c Level-0 table #86: started
-2021/12/07-16:39:31.465 d73c Level-0 table #86: 112930 bytes OK
-2021/12/07-16:39:31.467 d73c Delete type=0 #83
-2021/12/07-16:40:32.255 d88c Level-0 table #89: started
-2021/12/07-16:40:32.263 d88c Level-0 table #89: 284058 bytes OK
-2021/12/07-16:40:32.266 d88c Delete type=0 #87
-2021/12/07-16:40:32.266 d88c Compacting 4@0 + 1@1 files
-2021/12/07-16:40:32.284 d88c Generated table #90@0: 162 keys, 512013 bytes
-2021/12/07-16:40:32.284 d88c Compacted 4@0 + 1@1 files => 512013 bytes
-2021/12/07-16:40:32.286 d88c compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/12/07-16:40:32.286 d88c Delete type=2 #80
-2021/12/07-16:40:32.286 d88c Delete type=2 #89
-2021/12/07-16:40:32.286 d88c Delete type=2 #84
-2021/12/07-16:40:32.286 d88c Delete type=2 #86
-2021/12/07-16:40:32.286 d88c Delete type=2 #82
+2021/12/07-18:45:47.059 42a Reusing MANIFEST /home/khanhhd/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/12/07-18:45:47.061 42a Recovering log #101
+2021/12/07-18:45:47.062 42a Reusing old log /home/khanhhd/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000101.log 
+2021/12/07-18:45:54.117 4fa Level-0 table #105: started
+2021/12/07-18:45:54.123 4fa Level-0 table #105: 174228 bytes OK
+2021/12/07-18:45:54.125 4fa Delete type=0 #101
+2021/12/07-18:46:47.890 4fa Level-0 table #107: started
+2021/12/07-18:46:47.943 4fa Level-0 table #107: 376401 bytes OK
+2021/12/07-18:46:47.946 4fa Delete type=0 #104
+2021/12/07-19:04:10.710 4fa Level-0 table #109: started
+2021/12/07-19:04:10.720 4fa Level-0 table #109: 165615 bytes OK
+2021/12/07-19:04:10.722 4fa Delete type=0 #106
+2021/12/07-19:04:10.722 4fa Compacting 4@0 + 1@1 files
+2021/12/07-19:04:10.747 4fa Generated table #110@0: 169 keys, 606728 bytes
+2021/12/07-19:04:10.747 4fa Compacted 4@0 + 1@1 files => 606728 bytes
+2021/12/07-19:04:10.748 4fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/07-19:04:10.749 4fa Delete type=2 #100
+2021/12/07-19:04:10.749 4fa Delete type=2 #107
+2021/12/07-19:04:10.749 4fa Delete type=2 #102
+2021/12/07-19:04:10.749 4fa Delete type=2 #109
+2021/12/07-19:04:10.749 4fa Delete type=2 #105
+2021/12/07-20:06:11.826 4fa Level-0 table #112: started
+2021/12/07-20:06:11.834 4fa Level-0 table #112: 60422 bytes OK
+2021/12/07-20:06:11.836 4fa Delete type=0 #108
+2021/12/07-20:16:10.622 4fa Level-0 table #114: started
+2021/12/07-20:16:10.630 4fa Level-0 table #114: 53426 bytes OK
+2021/12/07-20:16:10.632 4fa Delete type=0 #111

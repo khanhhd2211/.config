@@ -1,19 +1,19 @@
-2021/12/07-16:39:34.079 d73c Reusing MANIFEST /home/khanhhd/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/07-16:39:34.079 d73c Recovering log #72
-2021/12/07-16:39:34.080 d73c Reusing old log /home/khanhhd/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000072.log 
-2021/12/07-16:39:38.232 d7c7 Level-0 table #79: started
-2021/12/07-16:39:38.240 d7c7 Level-0 table #79: 111054 bytes OK
-2021/12/07-16:39:38.242 d7c7 Delete type=0 #72
-2021/12/07-16:39:38.242 d7c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/12/07-16:39:38.243 d7c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x02\x1f\x01\x10\x000\x000\x000\x001\x006\x003\x008\x007\x005\x006\x000\x003\x007\x002\x002\x009\x00\x01\x0c\x002\x007\x007\x008\x002\x007\x007\x007\x006\x000\x000\x002' @ 100226 : 1
-2021/12/07-16:39:38.243 d7c7 Compacting 1@1 + 3@2 files
-2021/12/07-16:39:38.273 d7c7 Generated table #80@1: 1404 keys, 2145086 bytes
-2021/12/07-16:39:38.309 d7c7 Generated table #81@1: 12874 keys, 2189620 bytes
-2021/12/07-16:39:38.331 d7c7 Generated table #82@1: 5408 keys, 1412956 bytes
-2021/12/07-16:39:38.331 d7c7 Compacted 1@1 + 3@2 files => 5747662 bytes
-2021/12/07-16:39:38.334 d7c7 compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/12/07-16:39:38.335 d7c7 Delete type=2 #79
-2021/12/07-16:39:38.335 d7c7 Delete type=2 #75
-2021/12/07-16:39:38.335 d7c7 Delete type=2 #74
-2021/12/07-16:39:38.335 d7c7 Delete type=2 #76
-2021/12/07-16:39:38.336 d7c7 Manual compaction at level-1 from '\x00\x06\x02\x1f\x01\x10\x000\x000\x000\x001\x006\x003\x008\x007\x005\x006\x000\x003\x007\x002\x002\x009\x00\x01\x0c\x002\x007\x007\x008\x002\x007\x007\x007\x006\x000\x000\x002' @ 100226 : 1 .. (end); will stop at (end)
+2021/12/07-18:45:49.474 47a Reusing MANIFEST /home/khanhhd/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-18:45:49.474 47a Recovering log #84
+2021/12/07-18:45:49.476 47a Reusing old log /home/khanhhd/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000084.log 
+2021/12/07-18:45:56.069 4ff Level-0 table #91: started
+2021/12/07-18:45:56.081 4ff Level-0 table #91: 139545 bytes OK
+2021/12/07-18:45:56.083 4ff Delete type=0 #84
+2021/12/07-18:45:56.083 4ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/07-18:45:56.083 4ff Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x02\x1f\x01\x10\x000\x000\x000\x001\x006\x003\x008\x007\x005\x006\x000\x003\x007\x002\x002\x009\x00\x01\x0c\x002\x007\x007\x008\x002\x007\x007\x007\x006\x000\x000\x002' @ 101763 : 1
+2021/12/07-18:45:56.083 4ff Compacting 1@1 + 3@2 files
+2021/12/07-18:45:56.149 4ff Generated table #92@1: 1404 keys, 2145130 bytes
+2021/12/07-18:45:56.211 4ff Generated table #93@1: 12874 keys, 2189620 bytes
+2021/12/07-18:45:56.239 4ff Generated table #94@1: 5408 keys, 1412947 bytes
+2021/12/07-18:45:56.239 4ff Compacted 1@1 + 3@2 files => 5747697 bytes
+2021/12/07-18:45:56.241 4ff compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/12/07-18:45:56.241 4ff Delete type=2 #87
+2021/12/07-18:45:56.241 4ff Delete type=2 #86
+2021/12/07-18:45:56.241 4ff Delete type=2 #91
+2021/12/07-18:45:56.241 4ff Delete type=2 #88
+2021/12/07-18:45:56.242 4ff Manual compaction at level-1 from '\x00\x06\x02\x1f\x01\x10\x000\x000\x000\x001\x006\x003\x008\x007\x005\x006\x000\x003\x007\x002\x002\x009\x00\x01\x0c\x002\x007\x007\x008\x002\x007\x007\x007\x006\x000\x000\x002' @ 101763 : 1 .. (end); will stop at (end)
